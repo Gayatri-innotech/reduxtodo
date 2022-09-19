@@ -1,18 +1,18 @@
-.input{
-    margin: 20px;
+.input {
+  margin: 20px;
 }
 .control {
-    width: 100%;
-    height: 40px;
-    border-radius: 5px;
-    border: 1px solid lightgray;
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid lightgray;
 }
-.btn{
-    height: 45px;
-    display: block;
-    margin-top: 10px;
-    width: 80px;
-    border: none;
-    background-color: lightgray;
-    border-radius: 5px;
+.btn {
+  height: 45px;
+  display: block;
+  margin-top: 10px;
+  width: 80px;
+  border: none;
+  background-color: lightgray;
+  border-radius: 5px;
 }
